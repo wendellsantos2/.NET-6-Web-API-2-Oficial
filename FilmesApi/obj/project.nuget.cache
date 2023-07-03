@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f62dYID0WAkAprj+cU74IHxyehM0DiaVi28Zl/P+P9r1Fy6PuICGQvO2mr0d9imk5piy50U+WcUWHqPUFgIhOA==",
+  "dgSpecHash": "idXRSsg+SoGINypVmjSSLUHpqyjQQIe5aAeQU64QH6NtptG3zzleIyon5GUoVwf2glCvEgUMIBg7xTFz8DXeVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\wemde\\source\\repos\\FilmesApi\\FilmesApi.csproj",
+  "projectFilePath": "D:\\Projetos\\Cursos .NET Alura\\.NET-6-Web-API-2-Oficial\\FilmesApi\\FilmesApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wemde\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\wemde\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

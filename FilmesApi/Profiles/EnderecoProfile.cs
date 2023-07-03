@@ -12,5 +12,6 @@ namespace FilmesApi.Profiles
             CreateMap<Endereco, ReadEnderecoDto>();
             CreateMap<UpdateEnderecoDto, Endereco>();
         }
+        /*Welligton fez isso*/
     }
 }

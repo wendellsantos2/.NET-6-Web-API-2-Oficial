@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wemde\\source\\repos\\FilmesApi\\FilmesApi.csproj": {}
+    "D:\\Projetos\\Cursos .NET Alura\\.NET-6-Web-API-2-Oficial\\FilmesApi\\FilmesApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wemde\\source\\repos\\FilmesApi\\FilmesApi.csproj": {
+    "D:\\Projetos\\Cursos .NET Alura\\.NET-6-Web-API-2-Oficial\\FilmesApi\\FilmesApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wemde\\source\\repos\\FilmesApi\\FilmesApi.csproj",
+        "projectUniqueName": "D:\\Projetos\\Cursos .NET Alura\\.NET-6-Web-API-2-Oficial\\FilmesApi\\FilmesApi.csproj",
         "projectName": "FilmesApi",
-        "projectPath": "C:\\Users\\wemde\\source\\repos\\FilmesApi\\FilmesApi.csproj",
+        "projectPath": "D:\\Projetos\\Cursos .NET Alura\\.NET-6-Web-API-2-Oficial\\FilmesApi\\FilmesApi.csproj",
         "packagesPath": "C:\\Users\\wemde\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wemde\\source\\repos\\FilmesApi\\obj\\",
+        "outputPath": "D:\\Projetos\\Cursos .NET Alura\\.NET-6-Web-API-2-Oficial\\FilmesApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wemde\\AppData\\Roaming\\NuGet\\NuGet.Config",
